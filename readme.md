@@ -35,6 +35,5 @@ Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasingh21&layout=compact)
 ![Ishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishikasingh21&show_icons=true&hide_border=true&theme=radical)
 
-![Ishika Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikasingh21&show_icons=true&theme=radical)
 
 
