@@ -6,6 +6,9 @@ Hi there 👋
 ⚡ Hobbies: Singing, reading  
 ✨ Connect with me on: https://www.linkedin.com/in/ishika-singh-a43b78232/ 
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-singh-a43b78232/) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)
+
+
 🛠️ Skills
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
